@@ -1,4 +1,5 @@
 # Asset Storage Interface
+PUSH EVENT TEST
 
 You can find an example implementation in [example/src](./example/src).
 
