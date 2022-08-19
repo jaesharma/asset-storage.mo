@@ -1,5 +1,6 @@
 # Asset Storage Interface
 
+trigger changes
 You can find an example implementation in [example/src](./example/src).
 
 ## References
